@@ -19,10 +19,10 @@ pkg install nodejs-lts
 pkg install git
 ```
    ```bash
-   git clone https://github.com/CryptoSatyam/pinai bot.git
+   git clone https://github.com/CryptoSatyam/pinai-bot.git
    ```
    ```bash
-   cd pinai bot
+   cd pinai-bot
    ```
 
 2. **Instal Requirements:**
