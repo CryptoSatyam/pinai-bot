@@ -423,7 +423,7 @@ async start() {
  ║                                  ║
  ╚══════════════════════════════════╝
     `.green);
-    console.log('Script shared on Airdrop Scripts telegram channel (@AirdropScript6)'.green);
+    console.log('Script shared on Airdrop Scripts telegram channel (@CryptoSatyam1)'.green);
         console.log(`Run ${this.maxThreads} concurrent accounts`.cyan);
         console.log(`Account timeout: ${this.accountTimeout / 1000} seconds`.cyan);
         console.log(`Rest time: ${this.restPeriod / 1000} seconds`.cyan);
